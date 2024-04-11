@@ -1,0 +1,79 @@
+#cxprincipal{
+    width: 400px;
+    height: 500px;
+    background-color: antiquewhite;
+    margin: auto;
+    position: relative;
+}
+#cxcadeado{
+    width: 250px;
+    height: 280px;
+    position: absolute;
+    background-color: aquamarine;
+    top: 25px;
+    left: 45px;
+}
+#cxlogin{
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    background-color: azure;
+    top: 340px;
+    left: 85px;
+}
+.fig1{
+    width: 100px;
+    height: 120px;
+
+}
+#amigos{
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    background-color: #6fc1f0;
+    color: aliceblue;
+    margin-top: 200px;
+}
+#texto{
+    text-align: center; 
+    position: relative;
+    color: #ffffff;
+    font-size: 30px;
+    justify-content: center;
+    margin-top: 200px;
+    display: flex;
+}
+#comercial{
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    background-color: #c95883;
+    color: aliceblue;
+    margin-top: 200px;
+}
+#user{
+    text-align: center;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    background-color: #3aafb3;
+    color: aliceblue;
+    margin-top: 200px;
+}
+#tela{
+    background-color: #6fc1f0;
+}
+#telac{
+    background-color: #c95883;
+}
+#telau{
+    background-color: #3aafb3;
+}
